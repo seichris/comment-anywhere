@@ -1,23 +1,3 @@
-## Permissionless context
-
-Allow anyone to add context data, permissionless. And share it with other (google) users.
-Example use cases:
-
-- coingecko with friends and influencers: eg. rate tokens, show twitter.
-
-- WOT:
--- tweets on app.sushi.com, with 
--- opinions of any source
--- rating for a website. For categories like security, token prediction, etc.
-
-- airbnb wifi speed (non-strucured data into structured data)
-
-- (structured into non-structured, using GPT)
-
-## Web3
-
-- Set bounties for any data, from anyone
-
 # Firebase SDK 9 + Google Sign In + Chrome Extension Manifest Version 3 + Webpack  
 
 # Demo
