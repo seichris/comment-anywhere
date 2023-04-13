@@ -5,13 +5,12 @@ import { initializeApp } from 'firebase/app';
 
 // config after registering firebase App 
 const config = {
-    apiKey: "<fill-me>",
-    authDomain: "<fill-me>",
-    projectId: "<fill-me>",
-    storageBucket: "<fill-me>",
-    messagingSenderId: "<fill-me>",
-    appId: "<fill-me>",
-    measurementId: "<fill-me>"
+    apiKey: "AIzaSyB8sGINgeYr7_-Gm2hBy7IcAgXBA6H8tl8",
+    authDomain: "comment-anywhere-a648f.firebaseapp.com",
+    projectId: "comment-anywhere-a648f",
+    storageBucket: "comment-anywhere-a648f.appspot.com",
+    messagingSenderId: "561733013204",
+    appId: "1:561733013204:web:db06d75b9fea520fb5b541"
 };
 
 // This creates firebaseApp instance

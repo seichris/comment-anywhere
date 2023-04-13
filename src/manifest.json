@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "version": "0.1",
-  "name": "Firebase Auth ( Google Sign IN SSO ) + MV3 Extension",
+  "name": "Firebase Auth + MV3 Extension",
   "description": "Webpack Modular Framework!",
   "action": {
     "default_popup": "./popup.html",
@@ -40,11 +40,11 @@
   },
   "options_page": "options.html",
   "oauth2": {
-    "client_id": "<fill-me>.apps.googleusercontent.com",
+    "client_id": "65784601804-h2qce7j7gs41if4763njtmtrfkmvqfbu.apps.googleusercontent.com",
     "scopes": [
       "https://www.googleapis.com/auth/userinfo.email",
       "https://www.googleapis.com/auth/userinfo.profile"
     ]
   },
-  "key": "-----BEGIN PUBLIC KEY-----\n<fill-me>\n-----END PUBLIC KEY-----"  
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr3b2DsKdr6VT1NXu2OiQQMSqE/Mxyiwd5mni6lfOWOcFP+BuNsHFQStrEZ8DRw4aEsTk6F4ptAqFV4Abdp/b0gum3zwDmm6vs0EhYY+Lw8Op0WF2UTsLLfSRfIi9/Nf7nZlfY9oG4SzDNMeNt4m8DJghaOI5fsyxOo2O3IiDbzfr2mQeTHk/2i+4wjUlyxLpxJOu+cn2abzlPo4B9by8JqLKvFX1GFSk4ABsnq0sfXkeUGzxd0pJCOqq9mt9jDFNGmIXrwUFTPWdvOf4T/j3uv7u6s8Nl7xWwEq5f1zt7Ijlrmov+ZesOttbCYCRXK+edO9rQOdfX0F6xAB4bboYZQIDAQAB"  
 }

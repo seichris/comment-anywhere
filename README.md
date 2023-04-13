@@ -34,6 +34,12 @@ With this repo, I have made it work for my use case to enable Google Sign In and
 Referrences:
 - [Google Sign In](https://firebase.google.com/docs/auth/web/google-signin)
 
+## 0Auth
+
+How to get `0auth2` and `key` info:
+
+See https://github.com/RasikaWarade/chrome-extension-mv3-firebase-boilerplate/issues/1
+
 
 # Structure
 
